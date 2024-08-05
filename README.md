@@ -1,4 +1,4 @@
 # Leetcode
 Leetcode Solutions
 
-Profile: https://leetcode.com/u/shreyas28/
+Profile: https://leetcode.com/u/radaxis/
